@@ -1,6 +1,8 @@
 # ScoreScrub
 A MaxMSP-based tool for Computer Assisted Composition
+
 This current beta works only on Mac OSX
+
 Download the latest release at https://github.com/lanematthewc/ScoreScrub/releases
 
 Download and install the following before attempting to use ScoreScrub:
